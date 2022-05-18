@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: CopperHelmet
   m_EditorClassIdentifier: 
   m_name: Copper Helmet
-  m_icon: {fileID: 0}
+  m_icon: {fileID: 2800000, guid: 6509adb73ba1de04d898264b898cdf2e, type: 3}
   m_weight: 3
   m_defensePoint: 1

@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: MinorHealthPotion
   m_EditorClassIdentifier: 
   m_name: MinorHealthPotion
-  m_icon: {fileID: 0}
+  m_icon: {fileID: 2800000, guid: 117b17facff65dc42b1b57deb7c21551, type: 3}
   m_points: 10
