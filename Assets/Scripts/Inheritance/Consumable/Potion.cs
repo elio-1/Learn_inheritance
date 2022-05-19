@@ -6,4 +6,8 @@ using UnityEngine;
 public class Potion : Consumable
 {
     public int m_points;
+    public override void Use()
+    {
+        Debug.Log("Used "+m_name+", heal for: " + m_points);
+    }
 }

@@ -9,10 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b4d944f777b7cc0439379fc5fe74b859, type: 3}
-  m_Name: CopperHelmet
+  m_Script: {fileID: 11500000, guid: 10e17744bcaea8b4e9a5c341fa327a72, type: 3}
+  m_Name: RevivePotion
   m_EditorClassIdentifier: 
-  m_name: Copper Helmet
-  m_icon: {fileID: 2800000, guid: 6509adb73ba1de04d898264b898cdf2e, type: 3}
-  m_weight: 3
-  m_defensePoint: 1
+  m_name: Revive Potion
+  m_icon: {fileID: 21300000, guid: 3a481bc5b3972b54ab4918d5226622af, type: 3}

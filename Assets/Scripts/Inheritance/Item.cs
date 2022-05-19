@@ -6,5 +6,5 @@ public abstract class Item : ScriptableObject
 {
     protected int _id;
     public string m_name;
-    public Texture2D m_icon;
+    public Sprite m_icon;
 }

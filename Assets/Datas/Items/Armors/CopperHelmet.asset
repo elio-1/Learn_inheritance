@@ -9,10 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6c0009ada951c7d48a77673f294c1c9b, type: 3}
-  m_Name: WoodenSword
+  m_Script: {fileID: 11500000, guid: b4d944f777b7cc0439379fc5fe74b859, type: 3}
+  m_Name: CopperHelmet
   m_EditorClassIdentifier: 
-  m_name: Wooden Sword
-  m_icon: {fileID: 21300000, guid: 2ddf0348701148a4d8a7c6a0f7f146b3, type: 3}
-  m_weight: 5
-  m_damage: 1
+  m_name: Copper Helmet
+  m_icon: {fileID: 21300000, guid: 6509adb73ba1de04d898264b898cdf2e, type: 3}
+  m_weight: 3
+  m_defensePoint: 1

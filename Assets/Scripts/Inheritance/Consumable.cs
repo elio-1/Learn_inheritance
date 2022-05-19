@@ -3,5 +3,5 @@ using System.Collections.Generic;
 using UnityEngine;
 public abstract class Consumable : Item
 {
-    public void Use() { }
+    public abstract void Use();
 }

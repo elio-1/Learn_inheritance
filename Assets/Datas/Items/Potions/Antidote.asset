@@ -9,9 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fc684431051a3ff4eb6357fce9d45cca, type: 3}
-  m_Name: MinorHealthPotion
+  m_Script: {fileID: 11500000, guid: 7fc13db05e6ed2c4bac12ea50394aa21, type: 3}
+  m_Name: Antidote
   m_EditorClassIdentifier: 
-  m_name: MinorHealthPotion
-  m_icon: {fileID: 2800000, guid: 117b17facff65dc42b1b57deb7c21551, type: 3}
-  m_points: 10
+  m_name: Antidote
+  m_icon: {fileID: 21300000, guid: 1f97848f18817cc43ba66da5a2d0ccfa, type: 3}

@@ -9,10 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6c0009ada951c7d48a77673f294c1c9b, type: 3}
-  m_Name: WoodenSword
+  m_Script: {fileID: 11500000, guid: 10a67bd5561d1834a95e635d6c42c6ae, type: 3}
+  m_Name: LeatherGloves
   m_EditorClassIdentifier: 
-  m_name: Wooden Sword
-  m_icon: {fileID: 21300000, guid: 2ddf0348701148a4d8a7c6a0f7f146b3, type: 3}
-  m_weight: 5
-  m_damage: 1
+  m_name: Leather Gloves
+  m_icon: {fileID: 21300000, guid: 93dbc8f96dc6c00418ba8f1a8e8992e4, type: 3}
+  m_weight: 2
+  m_defensePoint: 1

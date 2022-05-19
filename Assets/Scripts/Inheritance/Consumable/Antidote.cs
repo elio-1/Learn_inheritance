@@ -5,5 +5,8 @@ using UnityEngine;
 
 public class Antidote : Consumable
 {
-   
+    public override void Use()
+    {
+        Debug.Log("Used " + m_name );
+    }
 }
