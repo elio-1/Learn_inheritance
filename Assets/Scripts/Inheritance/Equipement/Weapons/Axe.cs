@@ -4,7 +4,10 @@ using UnityEngine;
 
 [CreateAssetMenu(fileName = "Axe", menuName = "Item/Equipement/Weapon/Axe")]
 
-class Axe : Weapon
+public class Axe : Weapon
 {
-    
+    public override void Attack()
+    {
+        Debug.Log("Axe Strike!");
+    }
 }

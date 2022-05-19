@@ -4,7 +4,7 @@ using UnityEngine;
 
 [CreateAssetMenu(fileName = "Revive", menuName = "Item/Consumable/Revive")]
 
-class Revive : Consumable
+public class Revive : Consumable
 {
 
 }

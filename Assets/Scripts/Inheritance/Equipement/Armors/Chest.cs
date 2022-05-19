@@ -4,7 +4,7 @@ using UnityEngine;
 
 [CreateAssetMenu(fileName = "Chest", menuName = "Item/Equipement/Armor/Chest")]
 
-class Chest : Armor
+public class Chest : Armor
 {
    
 }
