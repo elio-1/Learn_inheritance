@@ -4,15 +4,16 @@ using UnityEngine;
 
 public class PsGroup : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    private ParticleSystem[] _particleSystems;
+    private void Awake()
     {
-        
+        _particleSystems = GetComponentsInChildren<ParticleSystem>();
     }
-
-    // Update is called once per frame
-    void Update()
+    public void PlayParticleGroup()
     {
-        
+        foreach (ParticleSystem ps in _particleSystems)
+        {
+            ps.Play();
+        }
     }
 }
